@@ -1,0 +1,1 @@
+gcc main.c -Wall -std=gnu99 -o timegen.exe
